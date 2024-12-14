@@ -23,9 +23,9 @@ This project was completed as part of the internship tasks provided by **Prodigy
    cd PRODIGY_CS_01
    ```
 2. Run the program:
-```bash
-python caesar_cipher.py
-```
+   ```bash
+   python caesar_cipher.py
+   ```
 ## Screenshots
 
 ![Screenshot 2024-12-14 194145](https://github.com/user-attachments/assets/adcad1d5-6d3b-4848-9294-7d4b7b255cf5)
