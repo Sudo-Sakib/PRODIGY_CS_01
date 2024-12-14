@@ -19,5 +19,14 @@ This project was completed as part of the internship tasks provided by **Prodigy
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/caesar-cipher.git
-   cd caesar-cipher
+   git clone https://github.com/Sudo-Sakib/PRODIGY_CS_01.git
+   cd PRODIGY_CS_01
+   ```
+2. Run the program:
+```bash
+python caesar_cipher.py
+```
+## Screenshots
+
+![Screenshot 2024-12-14 194145](https://github.com/user-attachments/assets/adcad1d5-6d3b-4848-9294-7d4b7b255cf5)
+
